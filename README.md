@@ -54,7 +54,7 @@ I thrive on **modern web technologies, automation, DevOps**, and contributing to
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/)  
-📧 **Email**: `nikodiani1234-debug@example.com`  
+📧 **Email**: `debug@nikodiani1234.com`  
 
 ---
 
